@@ -10,3 +10,6 @@ Na Zvrk.eu korisnici mogu:
 
 Naš cilj je stvoriti moderan i zabavan servis za kratke video zapise u regiji Balkana.
 ![Zvrk Screenshoot](https://www.zvrk.eu/zvrk.png)
+
+Ako imate bilo kakvih pitanja, molimo kontaktirajte nas na: [admin@zvrk.eu](mailto:admin@zvrk.eu)
+
