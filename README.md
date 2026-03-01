@@ -1,17 +1,7 @@
 # Dobrodošli na Zvrk.eu 🎬
 
-**Zvrk.eu** je prvi Balkanski portal posvećen dijeljenju kratkih video sadržaja.  
-Na Zvrk.eu korisnici mogu:  
+Pridruži se na Zvrk, Zvrk komunikacije
 
-- Uploadati kratke video zapise  
-- Pregledavati i komentarisati sadržaje  
-- Pratiti najnovije trendove  
-- Interaktivno učestvovati u zajednici  
-
-Naš cilj je stvoriti moderan i zabavan servis za kratke video zapise u regiji Balkana.
-![Zvrk Screenshoot](https://www.zvrk.eu/zvrk.png)
-
-Ako imate bilo kakvih pitanja, molimo kontaktirajte nas na: [admin@zvrk.eu](mailto:admin@zvrk.eu)
-Posjetite naš sajt: [https://www.zvrk.eu](https://www.zvrk.eu)
+Otvori tvoj server sa audio kanalima i botovima, preporučeno za druženje, influencere, gamere, muzičare.
 
 
